@@ -2,7 +2,12 @@
 
 react native
 expo route
-supa base
+supabase
 sql
+style sheet
+
+
+
+
 
 app sugere receita baseadas nos ingredientes
